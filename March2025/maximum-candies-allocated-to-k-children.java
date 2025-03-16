@@ -1,3 +1,4 @@
+//Daily Challenge -14th March
 class Solution {
     public int maximumCandies(int[] candies, long k) {
         long l = 1;
